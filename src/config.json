@@ -1,0 +1,8 @@
+{
+  "pbkdf2": {
+    "saltRounds": "$2b$10$fuwbKCPJP9M031Uf0Tk.m.jASmSTIU26F5mrPb8/UnSTyLn0qFO6m",
+    "itration": 8,
+    "keylenght": 32,
+    "digest": "sha512"
+  }
+}
